@@ -1,0 +1,30 @@
+READ ME - Anna Carmen Cordasco
+# Progetto di Tesi: Pagina Web per il Download dei Report di Sostenibilità di Pirelli
+## Descrizione del progetto
+Questo elaborato si propone di sviluppare una pagina web che permetta agli utenti di accedere e
+scaricare facilmente i report di sostenibilità di Pirelli, impresa del settore secondario manifatturiero
+con un impegno consolidato nella trasparenza e nella responsabilità sociale e ambientale.
+## Obiettivi
+- Analizzare il contesto in cui opera Pirelli, attraverso l’ultimo report di sostenibilità disponibile,
+evidenziando aspetti ambientali, sociali e di governance.
+- Progettare e implementare una pagina web in HTML e CSS che consenta il download dei report in
+modo semplice, accessibile e coerente con l’identità aziendale.
+- Documentare dettagliatamente il processo di sviluppo del codice e la struttura del sito, inclusi
+commenti esplicativi.
+## Contenuti del progetto
+- Sintesi del contesto aziendale e del report di sostenibilità Pirelli.
+- Codice sorgente HTML5 e CSS3 con commenti dettagliati per facilitare la comprensione.
+- File PDF dei report di sostenibilità (anni 2022-2024).
+- Risorse grafiche e linee guida di design rispettose del branding aziendale.
+- Relazione tecnica sul processo di sviluppo, testing e validazione della pagina.
+## Tecnologie utilizzate
+- HTML5 e CSS3 per la costruzione della pagina web.
+- Ottimizzazione grafica con immagini WebP e file vettoriali per il logo.
+- Strumenti di sviluppo: Visual Studio Code, Chrome DevTools, validatore W3C.
+- Repository GitHub per la gestione del codice e dei materiali.
+## Modalità di utilizzo
+La pagina consente agli utenti di visualizzare e scaricare i report di sostenibilità di Pirelli attraverso
+pulsanti intuitivi, con compatibilità su dispositivi desktop, tablet e mobile.
+Progetto sviluppato come elaborato di tesi, con l’obiettivo di coniugare competenze tecniche di
+sviluppo web e analisi della sostenibilità d’impresa nel settore secondario, in risposta alla traccia
+assegnata.
